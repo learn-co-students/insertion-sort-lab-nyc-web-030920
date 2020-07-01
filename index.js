@@ -19,12 +19,12 @@ function findMinAndRemove(array){
     return min
 }
 
-// declare variable sorted = empty array
-// declare variable min
-// loop through the array
-// set variable min === lowest number returned from findMinAndRemove()
-// push min into sorted array
-// return the sorted array
+// √ declare variable sorted = empty array
+// √ declare variable min
+// √ loop through the array
+// √ set variable min === lowest number returned from findMinAndRemove()
+// √ push min into sorted array
+// √ return the sorted array
 
 function insertionSort(array){
     let sorted = [];
