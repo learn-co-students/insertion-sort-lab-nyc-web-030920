@@ -15,7 +15,7 @@ function findMinAndRemove(array){
             minIndex = i
         }
     }
-    array.splice(minIndex, 1)
+    array.splice(minIndex, 1) //starting at minIndex, remove 1 element from array
     return min
 }
 
